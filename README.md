@@ -1,4 +1,4 @@
-<div align="center" background-color>
+<div align="center" background-color color="#DF6D74>
   <h1 color="#DF6D74">Olá! Eu sou o Gabriel Coelho e seja bem-vindo ao meu perfil do github! 👋</h1>
 </div>
 <div align="center">
