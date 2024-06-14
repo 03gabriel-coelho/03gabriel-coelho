@@ -28,5 +28,5 @@
 </div>
 
 <div align="center">
-  <img align="center" height="300" border="10px" src="https://i.pinimg.com/564x/92/60/a5/9260a5f97f1cfb597a03ed981c2ad688.jpg">
+  <img align="center" height="300" src="https://i.pinimg.com/564x/92/60/a5/9260a5f97f1cfb597a03ed981c2ad688.jpg">
 </div>
