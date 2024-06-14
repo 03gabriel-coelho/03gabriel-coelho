@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/03gabriel-coelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=03gabriel-coelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  alt="03gabriel-coelho's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/03gabriel-coelho?cardType=level&theme=onedark&preferLogin=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=03gabriel-coelho&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
