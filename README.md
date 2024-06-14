@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: red;">Olá! Eu sou o Gabriel Coelho e seja bem-vindo ao meu perfil do github! 👋</h1>
+  <span style="color: red;">Olá! Eu sou o Gabriel Coelho e seja bem-vindo ao meu perfil do github! 👋</span>
 </div>
 <div align="center">
   <a href="https://github.com/03gabriel-coelho">
