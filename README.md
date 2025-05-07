@@ -22,7 +22,7 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=03gabriel-coelho&hide_progress=true&layout=pie" />
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" />
 </div>
 <div align="center">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
