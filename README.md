@@ -4,7 +4,7 @@
 
 💻 **Desenvolvedor Full Stack**  
 🚀 Apaixonado por tecnologia, sempre em busca de novos desafios.  
-🎯 Meu foco atual: React, Node.js e performance!  
+🎯 Meu foco atual: React, Node.js e performance!
 
 </div>
 
@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/03gabriel-coelho">
-    <img height="180em" alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/03gabriel-coelho?cardType=level&theme=jolly&locale=pt-BR&preferLogin=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=03gabriel-coelho&layout=compact&langs_count=7&theme=ambient_gradient&locale=pt-BR"/>
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=03gabriel-coelho&cardType=level&theme=jolly&preferLogin=false&bg_color=4848A8&title_color=FFF&locale=pt-BR&border_color=4848A" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=03gabriel-coelho&layout=compact&langs_count=7&theme=ambient_gradient&locale=pt-BR&border_color=4848A"/>
   </a>
 </div>
 
@@ -21,6 +21,9 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
+<div align="center">
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=03gabriel-coelho&hide_progress=true&layout=pie" />
+</div>
 <div align="center">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
