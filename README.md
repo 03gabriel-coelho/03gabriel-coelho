@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/03gabriel-coelho">
-    <img height="180em" alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/03gabriel-coelho?cardType=level&theme=dracula&preferLogin=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=03gabriel-coelho&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/03gabriel-coelho?cardType=level&theme=jolly&locale=pt-BR&preferLogin=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=03gabriel-coelho&layout=compact&langs_count=7&theme=ambient_gradient&locale=pt-BR"/>
   </a>
 </div>
 
